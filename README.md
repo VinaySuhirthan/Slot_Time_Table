@@ -31,9 +31,9 @@ Execute the program using runserver command.
 </head>
 <body>
 <center>
+<img src="saveetha.jpg" alt="Italian Trulli">
 </center>
-<br>
-<table align="center" width="760" cellspacing="2" cellpadding="6" border="5" bgcolor="lavender">
+<table align="center" width="700" cellspacing="2" cellpadding="1" border="4" bgcolor="lavender">
 <caption><b>SLOT TIME TABLE - K S VINAY SUHIRTHAN (24901151)</b></caption>
 <tr align="center">
 <th bgcolor="lightblue">Day/Time</th>
@@ -87,7 +87,6 @@ Execute the program using runserver command.
 </tr>
 </table>
 <br>
-<br>
 <table align="center" cellspacing="2" cellpadding="4" border="2">
 <tr align="center">
 <th>No.</th>
@@ -130,7 +129,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot 2024-11-17 234023](https://github.com/user-attachments/assets/24d7a210-16bd-4492-a99e-3279d9df7734)
+![Screenshot 2024-11-17 234956](https://github.com/user-attachments/assets/3092d614-ad90-4ea2-949c-26c1cbe327d6)
 
 
 ## RESULT
